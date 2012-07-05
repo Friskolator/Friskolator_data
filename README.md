@@ -1,7 +1,8 @@
 
 This is a data-drop for Friskolator Data!
 
-Format is 
+Format is :
+
 	event_name/ Folder is the date of the friskolator event
 	event_name/frisks/ UUID.json - Frisk File Each file is a UUID of main frisk event, containing data *only from during that frisk*. Data format specifed below
 	event_name/misc/.*UUID.*.json - This is user-generated data from UUID's. Croudsourced ID of object, info, locations of things in photos, etc can be dumped here.  As long as the UUID is somewhere in the name, we will try to associate and parse it. Suggested nameing is UUID.underscore_sep_note.json
