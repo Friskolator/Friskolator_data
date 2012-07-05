@@ -15,7 +15,7 @@ Format is
 
 Below is an example friskolator-data json file. 
 
-UUID = { 
+	UUID = { 
 	"Version":"0.5" # data version. Used for forward compatiblity
 	"img":"flickr_url_of_frisk_image"
 	"twitter":"@fakeperson"
@@ -28,4 +28,4 @@ UUID = {
 		# messes here
 	}
 
-}
+	}
