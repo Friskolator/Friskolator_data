@@ -17,16 +17,20 @@ Format is :
 Below is an example friskolator-data json file. 
 
 	UUID = { 
-	"Version":"0.5" # data version. Used for forward compatiblity
-	"img":"flickr_url_of_frisk_image"
-	"twitter":"@fakeperson"
-	"homeplace":"String, or Lat/Long of home"
+	"Version":"0.5", # data version. Used for forward compatiblity
+	"img":"flickr_url_of_frisk_image",
+	"twitter":"@fakeperson",
+	"name":"name of person",
+	"homeplace":"String, or Lat/Long of home",
+	"event":"event_name",
 	"at":"location of friskolator event"
 	"consented":true #MUST_BE_TRUE. ALWAYS.
+	"gender":"your_choice",
 	"metadata": { 
-		# optional metadata block. 
-		# not yet defined. Feel free to make
-		# messes here
+		## Undefined as of yet. Make 
+		## a mess here, it's OK
+	}	
+	"objects": {
+		"x,y,h,w":"description" <- bounding box of object, + description
 	}
-
 	}
