@@ -1,0 +1,22 @@
+
+{
+	"version":"0.5",
+	"img":"http://www.flickr.com/photos/friskolator/7510210418/",
+	"event":"prehope_test",
+	"consented":true,
+	"name": "Frisk Olator",
+	"twitter":"@friskolator",
+	"at":"Hotel Penn, NYC, NY",
+	"homeplace":"11101",
+	"objects": [
+		{"x":"288", "authorname": "friskolator", "w": "51", "author": "81953314@N02", "y": "144", "h": "64", "id": "72157630439546134", "text":"thing a"},
+		{"x": "27", "authorname": "friskolator", "w": "120", "author": "81953314@N02", "y": "2", "h": "123", "id": "72157630439536372", "text":"thing a"},
+		{"x": "150", "authorname": "friskolator", "w": "120", "author": "81953314@N02", "y": "26", "h": "182", "id": "72157630439539510", "text":"thing a"},
+
+		{"x": "280", "authorname": "friskolator", "w": "114", "author": "81953314@N02", "y": "30", "h": "106", "id": "72157630439541210", "text":"thing c"}, 
+		{"x": "371", "authorname": "friskolator", "w": "64", "author": "81953314@N02", "y": "152", "h": "66", "id": "72157630439544302", "text":"tag d, tag e"},
+		{"x": "288", "authorname": "friskolator", "w": "51", "author": "81953314@N02", "y": "144", "h": "64", "id": "72157630439546134", "text":"tag f, tag e"}
+]
+
+}
+
